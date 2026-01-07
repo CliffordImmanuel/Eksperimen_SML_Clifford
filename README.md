@@ -4,6 +4,7 @@ Nama Dataset: Telco Customer Churn.
 
 Sumber Data: Dataset ini diperoleh dari repositori publik Kaggle melalui tautan berikut: [IBM Sample Data Sets - Telco Customer Churn.
 ](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 Format Berkas: Comma-Separated Values (.csv).
 
 2. Deskripsi Singkat
